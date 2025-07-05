@@ -32,7 +32,7 @@ The emulator allows you to configure the **tape**, **alphabet**, and **transitio
 ## Technologies Used
 
 - **C++17**
-- *Qt Framework**
+- **Qt Framework**
 - Custom state machine and tape engine
 - Qt Designer for UI
 
